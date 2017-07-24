@@ -4,8 +4,9 @@
 The Line Bot demo use your private ssl certification
 
 ## Environment
-Ubuntu 16.04 LTS
-python-3.5.2 
+Ubuntu 16.04 LTS </br>
+python-3.5.2 </br>
+pip freeze > requirements.txt
 
 ## HTTP/HTTPS
 HTTPS
