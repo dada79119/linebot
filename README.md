@@ -1,7 +1,7 @@
 ### 更新時間:20170724 09:45
 
 # Python Line Bot
-The Line Bot demo use your private ssl certification
+It's echo function of Line Bot that use your private ssl certification in Google Cloud Platform.
 
 ## Environment
 Ubuntu 16.04 LTS </br>
