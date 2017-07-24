@@ -15,6 +15,11 @@ pip freeze > requirements.txt
 HTTPS
 
 ## Document
+First you need to sign in the account of Line@ MANAGER and Line Developers. <br>
+And then you can get Channel Access Token and Channel Secret.
+In order to connect your server you need to type Webhook URL like(	
+https://www.xxxx.xx:9453/callback) <br>
+
 In the good cloud platform I open a port 9453 to connect line bot api. </br>
 The file of app.py is flask structure.</br>
 
