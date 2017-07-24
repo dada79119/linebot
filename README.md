@@ -1,4 +1,4 @@
-### 更新時間:20170724 09:45
+### 更新時間:20170724 10:55
 
 # Python Line Bot
 It's echo function of Line Bot that use your private ssl certification in Google Cloud Platform.
