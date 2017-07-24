@@ -3,6 +3,9 @@
 # Python Line Bot
 It's echo function of Line Bot that use your private ssl certification in Google Cloud Platform.
 
+## Ref:
+Line-bot script(https://github.com/line/line-bot-sdk-python)
+
 ## Environment
 Ubuntu 16.04 LTS </br>
 python-3.5.2 </br>
