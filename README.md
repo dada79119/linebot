@@ -13,7 +13,7 @@ HTTPS
 
 ## Use
 ```
-https://github.com/dada79119/linebot.git
+git clone https://github.com/dada79119/linebot.git
 ```
 
 
